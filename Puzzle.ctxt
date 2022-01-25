@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Puzzle
+comment1.params=
+comment1.target=Puzzle()
+comment2.params=
+comment2.target=void\ show()
+comment2.text=\ Shows\ the\ guesses\ on\ the\ terminal\r\n\ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getWord()
+comment3.text=\ Accessor\ method\ for\ the\ puzzle\ word\r\n\ \ @return\ the\ String\ word\r\n
+comment4.params=filename
+comment4.target=void\ loadWords(java.lang.String)
+comment5.params=_w
+comment5.target=boolean\ notDouble(java.lang.String)
+comment6.params=
+comment6.target=boolean\ isSolved()
+comment6.text=\ Method\ that\ determines\ whether\ the\ puzzle\ has\ been\ solved\r\n\ \ @return\ true\ if\ not\ solved,\ false\ if\ solved\r\n
+comment7.params=guess
+comment7.target=void\ makeGuess(java.lang.String)
+comment7.text=\ Method\ that\ takes\ guess\ and\ sees\ if\ correct\r\n\ \ @param\ guess\ letter\ guessed\ by\ player\r\n\ \ @return\ true\ if\ word\ contains\ the\ letter,\ false\ if\ the\ word\ does\ not\r\n
+comment8.params=
+comment8.target=int\ getNumGuesses()
+numComments=9
